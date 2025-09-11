@@ -5,7 +5,7 @@
   <title>Mi GIF en GitHub</title>
 </head>
 <body>
-  <img src="nombre-de-tu-gif.gif" alt="Mi GIF">
+  <img src="https://github.com/ChristmasSolidarios/bannertarjetasfisicas/blob/main/bannerfisicas.gif?raw=true" alt="Mi GIF">
 </body>
 </html>
 
