@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Imagen JPG de 200x200</title>
+  <style>
+    .imagen-jpg {
+      display: block;
+      width: 200px;   
+      height: 200px;  
+      object-fit: cover; 
+      margin: 20px auto; 
+    }
+  </style>
+</head>
+<body>
+  <img src="https://github.com/ChristmasSolidarios/bannertarjetasfisicas/blob/main/TarjetaF%C3%ADsica.jpg?raw=true" 
+       alt="Tarjeta Física" 
+       class="imagen-jpg">
+</body>
+</html>
